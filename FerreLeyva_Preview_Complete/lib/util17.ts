@@ -1,0 +1,1 @@
+export const util17=()=>'17'

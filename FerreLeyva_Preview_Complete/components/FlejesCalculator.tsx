@@ -1,0 +1,1 @@
+export default function FlejesCalculator(){return <div>FlejesCalculator</div>}

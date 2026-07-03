@@ -1,0 +1,1 @@
+Proyecto preview completo para GitHub y Vercel.

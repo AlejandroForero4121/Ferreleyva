@@ -1,0 +1,1 @@
+export default function CanteraSection(){return <div>CanteraSection</div>}

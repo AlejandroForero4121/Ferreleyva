@@ -1,0 +1,1 @@
+export default function WhatsappBubble(){return <div>WhatsappBubble</div>}

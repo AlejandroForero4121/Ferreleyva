@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Producto 1",
+    "category": "Pinturas",
+    "price": 16000
+  },
+  {
+    "id": 2,
+    "name": "Producto 2",
+    "category": "Cemento",
+    "price": 17000
+  },
+  {
+    "id": 3,
+    "name": "Producto 3",
+    "category": "Truper",
+    "price": 18000
+  },
+  {
+    "id": 4,
+    "name": "Producto 4",
+    "category": "Herramientas",
+    "price": 19000
+  },
+  {
+    "id": 5,
+    "name": "Producto 5",
+    "category": "Pinturas",
+    "price": 20000
+  },
+  {
+    "id": 6,
+    "name": "Producto 6",
+    "category": "Cemento",
+    "price": 21000
+  },
+  {
+    "id": 7,
+    "name": "Producto 7",
+    "category": "Truper",
+    "price": 22000
+  },
+  {
+    "id": 8,
+    "name": "Producto 8",
+    "category": "Herramientas",
+    "price": 23000
+  },
+  {
+    "id": 9,
+    "name": "Producto 9",
+    "category": "Pinturas",
+    "price": 24000
+  },
+  {
+    "id": 10,
+    "name": "Producto 10",
+    "category": "Cemento",
+    "price": 25000
+  },
+  {
+    "id": 11,
+    "name": "Producto 11",
+    "category": "Truper",
+    "price": 26000
+  },
+  {
+    "id": 12,
+    "name": "Producto 12",
+    "category": "Herramientas",
+    "price": 27000
+  },
+  {
+    "id": 13,
+    "name": "Producto 13",
+    "category": "Pinturas",
+    "price": 28000
+  },
+  {
+    "id": 14,
+    "name": "Producto 14",
+    "category": "Cemento",
+    "price": 29000
+  },
+  {
+    "id": 15,
+    "name": "Producto 15",
+    "category": "Truper",
+    "price": 30000
+  },
+  {
+    "id": 16,
+    "name": "Producto 16",
+    "category": "Herramientas",
+    "price": 31000
+  },
+  {
+    "id": 17,
+    "name": "Producto 17",
+    "category": "Pinturas",
+    "price": 32000
+  },
+  {
+    "id": 18,
+    "name": "Producto 18",
+    "category": "Cemento",
+    "price": 33000
+  },
+  {
+    "id": 19,
+    "name": "Producto 19",
+    "category": "Truper",
+    "price": 34000
+  },
+  {
+    "id": 20,
+    "name": "Producto 20",
+    "category": "Herramientas",
+    "price": 35000
+  },
+  {
+    "id": 21,
+    "name": "Producto 21",
+    "category": "Pinturas",
+    "price": 36000
+  },
+  {
+    "id": 22,
+    "name": "Producto 22",
+    "category": "Cemento",
+    "price": 37000
+  },
+  {
+    "id": 23,
+    "name": "Producto 23",
+    "category": "Truper",
+    "price": 38000
+  },
+  {
+    "id": 24,
+    "name": "Producto 24",
+    "category": "Herramientas",
+    "price": 39000
+  },
+  {
+    "id": 25,
+    "name": "Producto 25",
+    "category": "Pinturas",
+    "price": 40000
+  },
+  {
+    "id": 26,
+    "name": "Producto 26",
+    "category": "Cemento",
+    "price": 41000
+  },
+  {
+    "id": 27,
+    "name": "Producto 27",
+    "category": "Truper",
+    "price": 42000
+  },
+  {
+    "id": 28,
+    "name": "Producto 28",
+    "category": "Herramientas",
+    "price": 43000
+  },
+  {
+    "id": 29,
+    "name": "Producto 29",
+    "category": "Pinturas",
+    "price": 44000
+  },
+  {
+    "id": 30,
+    "name": "Producto 30",
+    "category": "Cemento",
+    "price": 45000
+  },
+  {
+    "id": 31,
+    "name": "Producto 31",
+    "category": "Truper",
+    "price": 46000
+  },
+  {
+    "id": 32,
+    "name": "Producto 32",
+    "category": "Herramientas",
+    "price": 47000
+  },
+  {
+    "id": 33,
+    "name": "Producto 33",
+    "category": "Pinturas",
+    "price": 48000
+  },
+  {
+    "id": 34,
+    "name": "Producto 34",
+    "category": "Cemento",
+    "price": 49000
+  },
+  {
+    "id": 35,
+    "name": "Producto 35",
+    "category": "Truper",
+    "price": 50000
+  },
+  {
+    "id": 36,
+    "name": "Producto 36",
+    "category": "Herramientas",
+    "price": 51000
+  },
+  {
+    "id": 37,
+    "name": "Producto 37",
+    "category": "Pinturas",
+    "price": 52000
+  },
+  {
+    "id": 38,
+    "name": "Producto 38",
+    "category": "Cemento",
+    "price": 53000
+  },
+  {
+    "id": 39,
+    "name": "Producto 39",
+    "category": "Truper",
+    "price": 54000
+  },
+  {
+    "id": 40,
+    "name": "Producto 40",
+    "category": "Herramientas",
+    "price": 55000
+  },
+  {
+    "id": 41,
+    "name": "Producto 41",
+    "category": "Pinturas",
+    "price": 56000
+  },
+  {
+    "id": 42,
+    "name": "Producto 42",
+    "category": "Cemento",
+    "price": 57000
+  },
+  {
+    "id": 43,
+    "name": "Producto 43",
+    "category": "Truper",
+    "price": 58000
+  },
+  {
+    "id": 44,
+    "name": "Producto 44",
+    "category": "Herramientas",
+    "price": 59000
+  },
+  {
+    "id": 45,
+    "name": "Producto 45",
+    "category": "Pinturas",
+    "price": 60000
+  },
+  {
+    "id": 46,
+    "name": "Producto 46",
+    "category": "Cemento",
+    "price": 61000
+  },
+  {
+    "id": 47,
+    "name": "Producto 47",
+    "category": "Truper",
+    "price": 62000
+  },
+  {
+    "id": 48,
+    "name": "Producto 48",
+    "category": "Herramientas",
+    "price": 63000
+  },
+  {
+    "id": 49,
+    "name": "Producto 49",
+    "category": "Pinturas",
+    "price": 64000
+  },
+  {
+    "id": 50,
+    "name": "Producto 50",
+    "category": "Cemento",
+    "price": 65000
+  },
+  {
+    "id": 51,
+    "name": "Producto 51",
+    "category": "Truper",
+    "price": 66000
+  },
+  {
+    "id": 52,
+    "name": "Producto 52",
+    "category": "Herramientas",
+    "price": 67000
+  },
+  {
+    "id": 53,
+    "name": "Producto 53",
+    "category": "Pinturas",
+    "price": 68000
+  },
+  {
+    "id": 54,
+    "name": "Producto 54",
+    "category": "Cemento",
+    "price": 69000
+  },
+  {
+    "id": 55,
+    "name": "Producto 55",
+    "category": "Truper",
+    "price": 70000
+  },
+  {
+    "id": 56,
+    "name": "Producto 56",
+    "category": "Herramientas",
+    "price": 71000
+  },
+  {
+    "id": 57,
+    "name": "Producto 57",
+    "category": "Pinturas",
+    "price": 72000
+  },
+  {
+    "id": 58,
+    "name": "Producto 58",
+    "category": "Cemento",
+    "price": 73000
+  },
+  {
+    "id": 59,
+    "name": "Producto 59",
+    "category": "Truper",
+    "price": 74000
+  },
+  {
+    "id": 60,
+    "name": "Producto 60",
+    "category": "Herramientas",
+    "price": 75000
+  }
+]
